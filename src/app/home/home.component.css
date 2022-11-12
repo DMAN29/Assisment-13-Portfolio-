@@ -1,0 +1,21 @@
+img{
+    width: 308px;;
+    float: left;
+    padding: 27px;
+
+    
+}
+
+div{
+    padding: 10px;
+    /* text-align: center; */
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    /* background-color: antiquewhite; */
+}
+.container1{
+    float: left;
+    height: 400px;
+    background-color: lightgray;
+}

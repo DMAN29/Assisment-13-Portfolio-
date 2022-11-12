@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+}
+h2{
+    text-align: center;
+    font-weight: 661%;
+}
+div{
+    margin: auto;
+    /* float: left; */
+    padding: 10px;
+    width: 55%;
+}

@@ -1,0 +1,12 @@
+h2{
+    margin: 20px;
+}
+div{
+    margin: 20px;
+    padding: 16px;
+}
+li{
+    float: left;
+    width: 100px;
+    /* background-color: beige; */
+}
